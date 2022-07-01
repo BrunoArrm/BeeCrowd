@@ -1,0 +1,11 @@
+{
+  "name": "exbeecrowd",
+  "version": "1.0.0",
+  "description": "exercícios do beecrowd",
+  "main": "BCL01E01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
